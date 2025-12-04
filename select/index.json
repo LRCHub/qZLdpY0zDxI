@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "BAD DAY",
+  "base_artist": "YOU THUG",
+  "createdAt": "2025-12-04T09:44:28.205903Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Day",
+      "artist": "Daniel Powter",
+      "has_synced": true,
+      "path": "select/01_Bad_Day_Daniel_Powter.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Day",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/02_Bad_Day_Blur.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On a Bad Day",
+      "artist": "Joanna Newsom",
+      "has_synced": true,
+      "path": "select/03_On_a_Bad_Day_Joanna_Newsom.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Day You're Having",
+      "artist": "Nik Kershaw",
+      "has_synced": false,
+      "path": "select/04_Bad_Day_You're_Having_Nik_Kershaw.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Day",
+      "artist": "Asher Roth feat. Jazze Pha",
+      "has_synced": true,
+      "path": "select/05_Bad_Day_Asher_Roth_feat._Jazze_Pha.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Day (ft. Jazze Pha)",
+      "artist": "Asher Roth",
+      "has_synced": true,
+      "path": "select/06_Bad_Day_(ft._Jazze_Pha)_Asher_Roth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Day",
+      "artist": "Carmel",
+      "has_synced": false,
+      "path": "select/07_Bad_Day_Carmel.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad Day",
+      "artist": "Justin Bieber",
+      "has_synced": true,
+      "path": "select/08_Bad_Day_Justin_Bieber.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Day",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/09_Bad_Day_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad Day",
+      "artist": "Juliana Hatfield",
+      "has_synced": true,
+      "path": "select/10_Bad_Day_Juliana_Hatfield.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Day",
+      "artist": "Daniel Powter",
+      "has_synced": true,
+      "path": "select/11_Bad_Day_Daniel_Powter.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bad Day (Live In Vienna)",
+      "artist": "Daniel Powter",
+      "has_synced": true,
+      "path": "select/12_Bad_Day_(Live_In_Vienna)_Daniel_Powter.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad Day",
+      "artist": "Daniel Powter",
+      "has_synced": true,
+      "path": "select/13_Bad_Day_Daniel_Powter.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Day",
+      "artist": "R.E.M.",
+      "has_synced": true,
+      "path": "select/14_Bad_Day_R.E.M..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad Day",
+      "artist": "Paul Anka",
+      "has_synced": false,
+      "path": "select/15_Bad_Day_Paul_Anka.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BAD DAY (feat. eyden)",
+      "artist": "YOU THUG",
+      "has_synced": false,
+      "path": "select/pl_01_BAD_DAY_(feat._eyden)_YOU_THUG.txt"
+    }
+  ]
+}
